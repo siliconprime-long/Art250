@@ -1,0 +1,215 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/ARTtwo50/Art250.git/!svn/ver/121/trunk/Pods/RestKit/Code/ObjectMapping
+END
+RKErrorMessage.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/ARTtwo50/Art250.git/!svn/ver/121/trunk/Pods/RestKit/Code/ObjectMapping/RKErrorMessage.h
+END
+RKMapperOperation_Private.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/ARTtwo50/Art250.git/!svn/ver/121/trunk/Pods/RestKit/Code/ObjectMapping/RKMapperOperation_Private.h
+END
+RKPropertyMapping.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/ARTtwo50/Art250.git/!svn/ver/121/trunk/Pods/RestKit/Code/ObjectMapping/RKPropertyMapping.h
+END
+RKMapping.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/ARTtwo50/Art250.git/!svn/ver/121/trunk/Pods/RestKit/Code/ObjectMapping/RKMapping.m
+END
+RKErrorMessage.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/ARTtwo50/Art250.git/!svn/ver/121/trunk/Pods/RestKit/Code/ObjectMapping/RKErrorMessage.m
+END
+RKPropertyMapping.m
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/ARTtwo50/Art250.git/!svn/ver/121/trunk/Pods/RestKit/Code/ObjectMapping/RKPropertyMapping.m
+END
+RKPropertyInspector.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/ARTtwo50/Art250.git/!svn/ver/121/trunk/Pods/RestKit/Code/ObjectMapping/RKPropertyInspector.h
+END
+RKRelationshipMapping.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/ARTtwo50/Art250.git/!svn/ver/121/trunk/Pods/RestKit/Code/ObjectMapping/RKRelationshipMapping.h
+END
+RKObjectMappingOperationDataSource.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/ARTtwo50/Art250.git/!svn/ver/121/trunk/Pods/RestKit/Code/ObjectMapping/RKObjectMappingOperationDataSource.h
+END
+RKAttributeMapping.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/ARTtwo50/Art250.git/!svn/ver/121/trunk/Pods/RestKit/Code/ObjectMapping/RKAttributeMapping.h
+END
+RKPropertyInspector.m
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/ARTtwo50/Art250.git/!svn/ver/121/trunk/Pods/RestKit/Code/ObjectMapping/RKPropertyInspector.m
+END
+RKRelationshipMapping.m
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/ARTtwo50/Art250.git/!svn/ver/121/trunk/Pods/RestKit/Code/ObjectMapping/RKRelationshipMapping.m
+END
+RKValueTransformers.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/ARTtwo50/Art250.git/!svn/ver/121/trunk/Pods/RestKit/Code/ObjectMapping/RKValueTransformers.h
+END
+RKObjectMappingOperationDataSource.m
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/ARTtwo50/Art250.git/!svn/ver/121/trunk/Pods/RestKit/Code/ObjectMapping/RKObjectMappingOperationDataSource.m
+END
+RKAttributeMapping.m
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/ARTtwo50/Art250.git/!svn/ver/121/trunk/Pods/RestKit/Code/ObjectMapping/RKAttributeMapping.m
+END
+RKObjectMappingMatcher.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/ARTtwo50/Art250.git/!svn/ver/121/trunk/Pods/RestKit/Code/ObjectMapping/RKObjectMappingMatcher.h
+END
+RKValueTransformers.m
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/ARTtwo50/Art250.git/!svn/ver/121/trunk/Pods/RestKit/Code/ObjectMapping/RKValueTransformers.m
+END
+RKMappingErrors.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/ARTtwo50/Art250.git/!svn/ver/121/trunk/Pods/RestKit/Code/ObjectMapping/RKMappingErrors.h
+END
+RKMappingResult.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/ARTtwo50/Art250.git/!svn/ver/121/trunk/Pods/RestKit/Code/ObjectMapping/RKMappingResult.h
+END
+RKObjectMappingMatcher.m
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/ARTtwo50/Art250.git/!svn/ver/121/trunk/Pods/RestKit/Code/ObjectMapping/RKObjectMappingMatcher.m
+END
+RKMappingResult.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/ARTtwo50/Art250.git/!svn/ver/121/trunk/Pods/RestKit/Code/ObjectMapping/RKMappingResult.m
+END
+RKDynamicMapping.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/ARTtwo50/Art250.git/!svn/ver/121/trunk/Pods/RestKit/Code/ObjectMapping/RKDynamicMapping.h
+END
+RKObjectUtilities.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/ARTtwo50/Art250.git/!svn/ver/121/trunk/Pods/RestKit/Code/ObjectMapping/RKObjectUtilities.h
+END
+RKDynamicMapping.m
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/ARTtwo50/Art250.git/!svn/ver/121/trunk/Pods/RestKit/Code/ObjectMapping/RKDynamicMapping.m
+END
+RKMapperOperation.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/ARTtwo50/Art250.git/!svn/ver/121/trunk/Pods/RestKit/Code/ObjectMapping/RKMapperOperation.h
+END
+RKObjectUtilities.m
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/ARTtwo50/Art250.git/!svn/ver/121/trunk/Pods/RestKit/Code/ObjectMapping/RKObjectUtilities.m
+END
+RKMapperOperation.m
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/ARTtwo50/Art250.git/!svn/ver/121/trunk/Pods/RestKit/Code/ObjectMapping/RKMapperOperation.m
+END
+RKHTTPUtilities.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/ARTtwo50/Art250.git/!svn/ver/121/trunk/Pods/RestKit/Code/ObjectMapping/RKHTTPUtilities.h
+END
+RKMappingOperation.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/ARTtwo50/Art250.git/!svn/ver/121/trunk/Pods/RestKit/Code/ObjectMapping/RKMappingOperation.h
+END
+RKHTTPUtilities.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/ARTtwo50/Art250.git/!svn/ver/121/trunk/Pods/RestKit/Code/ObjectMapping/RKHTTPUtilities.m
+END
+RKMappingOperation.m
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/ARTtwo50/Art250.git/!svn/ver/121/trunk/Pods/RestKit/Code/ObjectMapping/RKMappingOperation.m
+END
+RKObjectMapping.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/ARTtwo50/Art250.git/!svn/ver/121/trunk/Pods/RestKit/Code/ObjectMapping/RKObjectMapping.h
+END
+RKObjectMapping.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/ARTtwo50/Art250.git/!svn/ver/121/trunk/Pods/RestKit/Code/ObjectMapping/RKObjectMapping.m
+END
+RKMappingOperationDataSource.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/ARTtwo50/Art250.git/!svn/ver/121/trunk/Pods/RestKit/Code/ObjectMapping/RKMappingOperationDataSource.h
+END
+RKMapping.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/ARTtwo50/Art250.git/!svn/ver/121/trunk/Pods/RestKit/Code/ObjectMapping/RKMapping.h
+END

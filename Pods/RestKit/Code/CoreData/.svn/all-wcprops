@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/ARTtwo50/Art250.git/!svn/ver/121/trunk/Pods/RestKit/Code/CoreData
+END
+RKInMemoryManagedObjectCache.m
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/ARTtwo50/Art250.git/!svn/ver/121/trunk/Pods/RestKit/Code/CoreData/RKInMemoryManagedObjectCache.m
+END
+RKEntityMapping.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/ARTtwo50/Art250.git/!svn/ver/121/trunk/Pods/RestKit/Code/CoreData/RKEntityMapping.m
+END
+NSManagedObject+RKAdditions.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/ARTtwo50/Art250.git/!svn/ver/121/trunk/Pods/RestKit/Code/CoreData/NSManagedObject+RKAdditions.h
+END
+RKPropertyInspector+CoreData.m
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/ARTtwo50/Art250.git/!svn/ver/121/trunk/Pods/RestKit/Code/CoreData/RKPropertyInspector+CoreData.m
+END
+RKFetchRequestManagedObjectCache.m
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/ARTtwo50/Art250.git/!svn/ver/121/trunk/Pods/RestKit/Code/CoreData/RKFetchRequestManagedObjectCache.m
+END
+RKEntityCache.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/ARTtwo50/Art250.git/!svn/ver/121/trunk/Pods/RestKit/Code/CoreData/RKEntityCache.h
+END
+RKManagedObjectCaching.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/ARTtwo50/Art250.git/!svn/ver/121/trunk/Pods/RestKit/Code/CoreData/RKManagedObjectCaching.h
+END
+RKManagedObjectMappingOperationDataSource.m
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/ARTtwo50/Art250.git/!svn/ver/121/trunk/Pods/RestKit/Code/CoreData/RKManagedObjectMappingOperationDataSource.m
+END
+RKManagedObjectStore.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/ARTtwo50/Art250.git/!svn/ver/121/trunk/Pods/RestKit/Code/CoreData/RKManagedObjectStore.h
+END
+RKRelationshipConnectionOperation.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/ARTtwo50/Art250.git/!svn/ver/121/trunk/Pods/RestKit/Code/CoreData/RKRelationshipConnectionOperation.h
+END
+RKConnectionDescription.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/ARTtwo50/Art250.git/!svn/ver/121/trunk/Pods/RestKit/Code/CoreData/RKConnectionDescription.h
+END
+NSManagedObjectContext+RKAdditions.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/ARTtwo50/Art250.git/!svn/ver/121/trunk/Pods/RestKit/Code/CoreData/NSManagedObjectContext+RKAdditions.h
+END
+NSManagedObject+RKAdditions.m
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/ARTtwo50/Art250.git/!svn/ver/121/trunk/Pods/RestKit/Code/CoreData/NSManagedObject+RKAdditions.m
+END
+RKEntityCache.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/ARTtwo50/Art250.git/!svn/ver/121/trunk/Pods/RestKit/Code/CoreData/RKEntityCache.m
+END
+RKManagedObjectImporter.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/ARTtwo50/Art250.git/!svn/ver/121/trunk/Pods/RestKit/Code/CoreData/RKManagedObjectImporter.h
+END
+RKManagedObjectStore.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/ARTtwo50/Art250.git/!svn/ver/121/trunk/Pods/RestKit/Code/CoreData/RKManagedObjectStore.m
+END
+RKRelationshipConnectionOperation.m
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/ARTtwo50/Art250.git/!svn/ver/121/trunk/Pods/RestKit/Code/CoreData/RKRelationshipConnectionOperation.m
+END
+RKConnectionDescription.m
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/ARTtwo50/Art250.git/!svn/ver/121/trunk/Pods/RestKit/Code/CoreData/RKConnectionDescription.m
+END
+NSManagedObjectContext+RKAdditions.m
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/ARTtwo50/Art250.git/!svn/ver/121/trunk/Pods/RestKit/Code/CoreData/NSManagedObjectContext+RKAdditions.m
+END
+RKManagedObjectImporter.m
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/ARTtwo50/Art250.git/!svn/ver/121/trunk/Pods/RestKit/Code/CoreData/RKManagedObjectImporter.m
+END
+RKEntityByAttributeCache.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/ARTtwo50/Art250.git/!svn/ver/121/trunk/Pods/RestKit/Code/CoreData/RKEntityByAttributeCache.h
+END
+RKEntityByAttributeCache.m
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/ARTtwo50/Art250.git/!svn/ver/121/trunk/Pods/RestKit/Code/CoreData/RKEntityByAttributeCache.m
+END
+RKInMemoryManagedObjectCache.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/ARTtwo50/Art250.git/!svn/ver/121/trunk/Pods/RestKit/Code/CoreData/RKInMemoryManagedObjectCache.h
+END
+RKEntityMapping.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/ARTtwo50/Art250.git/!svn/ver/121/trunk/Pods/RestKit/Code/CoreData/RKEntityMapping.h
+END
+RKPropertyInspector+CoreData.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/ARTtwo50/Art250.git/!svn/ver/121/trunk/Pods/RestKit/Code/CoreData/RKPropertyInspector+CoreData.h
+END
+RKFetchRequestManagedObjectCache.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/ARTtwo50/Art250.git/!svn/ver/121/trunk/Pods/RestKit/Code/CoreData/RKFetchRequestManagedObjectCache.h
+END
+RKManagedObjectMappingOperationDataSource.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/ARTtwo50/Art250.git/!svn/ver/121/trunk/Pods/RestKit/Code/CoreData/RKManagedObjectMappingOperationDataSource.h
+END

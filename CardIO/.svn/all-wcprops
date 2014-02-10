@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/ARTtwo50/Art250.git/!svn/ver/94/trunk/CardIO
+END
+CardIOPaymentViewControllerDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/ARTtwo50/Art250.git/!svn/ver/94/trunk/CardIO/CardIOPaymentViewControllerDelegate.h
+END
+CardIOPaymentViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/ARTtwo50/Art250.git/!svn/ver/94/trunk/CardIO/CardIOPaymentViewController.h
+END
+CardIO.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/ARTtwo50/Art250.git/!svn/ver/94/trunk/CardIO/CardIO.h
+END
+libCardIO.a
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/ARTtwo50/Art250.git/!svn/ver/94/trunk/CardIO/libCardIO.a
+END
+CardIOCreditCardInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/ARTtwo50/Art250.git/!svn/ver/94/trunk/CardIO/CardIOCreditCardInfo.h
+END

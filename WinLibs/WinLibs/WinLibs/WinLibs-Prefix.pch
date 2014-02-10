@@ -1,0 +1,15 @@
+//
+// Prefix header for all source files of the 'WinLibs' target in the 'WinLibs' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+    #import <CoreGraphics/CoreGraphics.h>
+
+#endif
+
+#ifdef DEBUG
+#       define DLog(fmt, ...) NSLog((@"%s [Line %d] " fmt), __PRETTY_FUNCTION__, __LINE__, ##__VA_ARGS__);
+#else
+#       define DLog(...)
+#endif

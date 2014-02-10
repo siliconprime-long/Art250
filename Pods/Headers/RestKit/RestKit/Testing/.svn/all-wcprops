@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/ARTtwo50/Art250.git/!svn/ver/121/trunk/Pods/Headers/RestKit/RestKit/Testing
+END
+RKTestNotificationObserver.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/ARTtwo50/Art250.git/!svn/ver/121/trunk/Pods/Headers/RestKit/RestKit/Testing/RKTestNotificationObserver.h
+END
+RKTestHelpers.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/ARTtwo50/Art250.git/!svn/ver/121/trunk/Pods/Headers/RestKit/RestKit/Testing/RKTestHelpers.h
+END
+RKConnectionTestExpectation.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/ARTtwo50/Art250.git/!svn/ver/121/trunk/Pods/Headers/RestKit/RestKit/Testing/RKConnectionTestExpectation.h
+END
+RKPropertyMappingTestExpectation.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/ARTtwo50/Art250.git/!svn/ver/121/trunk/Pods/Headers/RestKit/RestKit/Testing/RKPropertyMappingTestExpectation.h
+END
+RKTestFixture.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/ARTtwo50/Art250.git/!svn/ver/121/trunk/Pods/Headers/RestKit/RestKit/Testing/RKTestFixture.h
+END
+RKTestFactory.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/ARTtwo50/Art250.git/!svn/ver/121/trunk/Pods/Headers/RestKit/RestKit/Testing/RKTestFactory.h
+END
+RKBenchmark.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/ARTtwo50/Art250.git/!svn/ver/121/trunk/Pods/Headers/RestKit/RestKit/Testing/RKBenchmark.h
+END
+RKMappingTest.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/ARTtwo50/Art250.git/!svn/ver/121/trunk/Pods/Headers/RestKit/RestKit/Testing/RKMappingTest.h
+END

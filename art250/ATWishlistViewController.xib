@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.iPad.XIB" version="3.0" toolsVersion="4514" systemVersion="12F45" targetRuntime="iOS.CocoaTouch.iPad" propertyAccessControl="none">
+    <dependencies>
+        <deployment defaultVersion="1792" identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="3747"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="ATWishlistViewController">
+            <connections>
+                <outlet property="addToCartBtn" destination="kum-DK-4U2" id="oxL-to-je2"/>
+                <outlet property="artistLocationLabel" destination="81" id="86"/>
+                <outlet property="artistNameLabel" destination="80" id="85"/>
+                <outlet property="artworkTitleLabel" destination="69" id="88"/>
+                <outlet property="backgroundView" destination="30j-H0-lwm" id="YrR-w6-dhW"/>
+                <outlet property="checkoutBtn" destination="pG4-lF-24x" id="bbx-gJ-UkW"/>
+                <outlet property="collectionsBtn" destination="zX2-9A-k8Z" id="J0m-6l-Ub0"/>
+                <outlet property="freeShippingLabel" destination="75" id="93"/>
+                <outlet property="heartBtn" destination="Ppv-7l-92N" id="SqT-St-fGe"/>
+                <outlet property="infoDockView" destination="52" id="62"/>
+                <outlet property="menuBtn" destination="5HG-c2-KcY" id="1eh-Oy-cXI"/>
+                <outlet property="portfolioLabel" destination="83" id="95"/>
+                <outlet property="priceLabel" destination="74" id="96"/>
+                <outlet property="shareBtn" destination="Zvn-LD-bS0" id="SLK-QY-1VQ"/>
+                <outlet property="view" destination="52" id="1yF-Sq-Tvf"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view clipsSubviews="YES" contentMode="left" id="52" userLabel="infoDockView">
+            <rect key="frame" x="0.0" y="0.0" width="1024" height="64"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <subviews>
+                <view alpha="0.69999999999999973" contentMode="scaleToFill" id="30j-H0-lwm" userLabel="backgroundView">
+                    <rect key="frame" x="0.0" y="4" width="1024" height="60"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                    <subviews>
+                        <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" text="Rancho Santa Margarita, CA   " lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="81" userLabel="locationLabel" customClass="ATCustomProximaNovaLightLabel">
+                            <rect key="frame" x="405" y="33" width="152" height="22"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <color key="backgroundColor" red="0.59999999999999998" green="0.59999999999999998" blue="0.59999999999999998" alpha="0.0" colorSpace="calibratedRGB"/>
+                            <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                            <color key="textColor" red="0.59999999999999998" green="0.59999999999999998" blue="0.59999999999999998" alpha="1" colorSpace="calibratedRGB"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                    </subviews>
+                    <color key="backgroundColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                </view>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" id="pG4-lF-24x" userLabel="checkoutButton">
+                    <rect key="frame" x="849" y="4" width="60" height="60"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                    <state key="normal" image="cart.png">
+                        <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                    </state>
+                    <connections>
+                        <action selector="cartButtonSelected:" destination="-1" eventType="touchUpInside" id="2N9-HP-xU2"/>
+                    </connections>
+                </button>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" id="kum-DK-4U2" userLabel="addToCartButton">
+                    <rect key="frame" x="909" y="4" width="115" height="60"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                    <color key="backgroundColor" red="0.81568627450980391" green="0.16078431372549018" blue="0.058823529411764705" alpha="1" colorSpace="calibratedRGB"/>
+                    <state key="normal" title="Add to Cart">
+                        <color key="titleColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                        <color key="titleShadowColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                    </state>
+                    <connections>
+                        <action selector="addToCartButtonSelected:" destination="-1" eventType="touchUpInside" id="Env-Ka-JO7"/>
+                    </connections>
+                </button>
+                <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" text="10 in portfolio" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="83" userLabel="portfolioLabel" customClass="ATCustomProximaNovaLightLabel">
+                    <rect key="frame" x="567" y="35" width="97" height="22"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                    <color key="backgroundColor" red="0.59999999999999998" green="0.59999999999999998" blue="0.59999999999999998" alpha="0.0" colorSpace="calibratedRGB"/>
+                    <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                    <color key="textColor" red="0.59999999999999998" green="0.59999999999999998" blue="0.59999999999999998" alpha="1" colorSpace="calibratedRGB"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" id="zX2-9A-k8Z" userLabel="collectionsButton">
+                    <rect key="frame" x="60" y="4" width="153" height="60"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                    <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                    <state key="normal" title="Recommendations">
+                        <color key="titleColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                        <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                    </state>
+                    <connections>
+                        <action selector="collectionsChooserButtonSelected:" destination="-1" eventType="touchUpInside" id="ybJ-pD-tyq"/>
+                    </connections>
+                </button>
+                <button opaque="NO" contentMode="TopLeft" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" id="Ppv-7l-92N" userLabel="heartButton">
+                    <rect key="frame" x="729" y="4" width="60" height="60"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                    <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="13"/>
+                    <state key="normal" backgroundImage="heart_hollow.png">
+                        <color key="titleColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                        <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                    </state>
+                    <state key="selected" title="12" backgroundImage="heart_filled.png">
+                        <color key="titleColor" red="0.59999999999999998" green="0.59999999999999998" blue="0.59999999999999998" alpha="1" colorSpace="calibratedRGB"/>
+                    </state>
+                    <connections>
+                        <action selector="heartButtonSelected:" destination="-1" eventType="touchUpInside" id="cB8-vx-ob3"/>
+                    </connections>
+                </button>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" id="Zvn-LD-bS0" userLabel="shareButton">
+                    <rect key="frame" x="790" y="4" width="60" height="60"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                    <state key="normal" image="share_dock.png">
+                        <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                    </state>
+                    <connections>
+                        <action selector="feedbackButtonSelected:" destination="-1" eventType="touchUpInside" id="iPc-Xi-SPg"/>
+                    </connections>
+                </button>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" id="5HG-c2-KcY" userLabel="menuButton">
+                    <rect key="frame" x="0.0" y="4" width="62" height="60"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                    <state key="normal" image="menu_horiz.png">
+                        <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                    </state>
+                    <state key="selected" image="menu_vert.png"/>
+                    <connections>
+                        <action selector="menuButtonSelected:" destination="-1" eventType="touchUpInside" id="Q1E-lO-ZqU"/>
+                    </connections>
+                </button>
+                <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="breadcrumb_arrow.png" id="EYK-aH-ILm" userLabel="breadcrumbArrow">
+                    <rect key="frame" x="218" y="4" width="23" height="60"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                </imageView>
+                <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" text="Free Shipping " textAlignment="right" lineBreakMode="wordWrap" numberOfLines="2" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="75" userLabel="freeShippingLabel" customClass="ATCustomProximaNovaLightLabel">
+                    <rect key="frame" x="627" y="37" width="90" height="22"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                    <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                    <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" text="Study of the still water river at night" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="69" userLabel="artworkTitleLabel" customClass="ATCustomProximaNovaSBoldLabel">
+                    <rect key="frame" x="248" y="8" width="352" height="29"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                    <fontDescription key="fontDescription" type="system" pointSize="22"/>
+                    <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" text="$250" textAlignment="right" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="74" userLabel="priceLabel" customClass="ATCustomProximaNovaSBoldLabel">
+                    <rect key="frame" x="649" y="8" width="68" height="29"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                    <fontDescription key="fontDescription" type="system" pointSize="22"/>
+                    <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" text="Tess Emily Rodriguez" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="80" userLabel="artistNameLabel" customClass="ATCustomProximaNovaLightLabel">
+                    <rect key="frame" x="248" y="37" width="191" height="22"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                    <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                    <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="divider_dock_vert.png" id="FoR-aE-ztR" userLabel="buttonsDivider">
+                    <rect key="frame" x="725" y="4" width="4" height="60"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                </imageView>
+            </subviews>
+            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="breadcrumb_arrow.png" width="23" height="60"/>
+        <image name="cart.png" width="60" height="60"/>
+        <image name="divider_dock_vert.png" width="2" height="60"/>
+        <image name="heart_filled.png" width="60" height="60"/>
+        <image name="heart_hollow.png" width="60" height="60"/>
+        <image name="menu_horiz.png" width="62" height="60"/>
+        <image name="menu_vert.png" width="62" height="60"/>
+        <image name="share_dock.png" width="60" height="60"/>
+    </resources>
+</document>

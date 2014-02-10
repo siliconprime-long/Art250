@@ -1,0 +1,163 @@
+/*
+ Localizable.strings
+ art250
+ 
+ Created by Winfred Raguini on 6/4/13.
+ Copyright (c) 2013 Art250. All rights reserved.
+ */
+
+
+
+//No more artwork
+"We apologize." = "We apologize.";
+"We're fresh out of kickass art today. Invite your favorite artist to add their work to ARTtwo50" = "We're fresh out of kickass art today. Invite your favorite artist to add their work to ARTtwo50";
+"Okay" = "Okay";
+
+//Carousel
+"Buy some art!" = "Buy some Art!";
+"Get feedback from friends" = "Get feedback from friends";
+"Review Recommendations" = "Review Recommendations";
+
+"Would you like to see \nmore recommendations?" = "Would you like to see \nmore recommendations?";
+"Sure!" = "Sure!";
+"Not yet" = "Not yet";
+
+//Taking a picture
+"DISTANCE FROM THE WALL" = "DISTANCE FROM THE WALL";
+"SIZE OF ARTWORK" = "SIZE OF ARTWORK";
+
+//When there's a failure
+"Ooops!" = "Ooops!";
+
+"Whoops!" = "Whoops!";
+"How far are you from the wall?" = "How far are you from the wall?";
+"Please, choose a painting size." = "Please, choose a painting size.";
+
+//Completed purchase
+"CELEBRATE_AND_SHARE" = "Celebrate & Share with friends";
+
+
+//SHIPPING INFO SCREEN
+//Validations
+
+//First time walkthrough
+"FIRST" = "Select your distance from the wall";
+"Select the distance that tells us how far away you are from the wall, so we can scale the art to your space." = "to help us scale the art.";
+"SECOND" = "Choose the approximate size";
+"Choose the approximate size of artwork you would like on your wall." = "of artwork you would like on your wall.";
+"THIRD" = "Position the frame and take a photo";
+"where you want to hang the art and take the photo when you are ready." = "where you want to hang the art.";
+
+//Sharing
+"TWEET_SENT" = "Tweet sent!";
+"FB_POST_SENT" = "Post sent!";
+
+"Check out the new piece of art I bought!" = "Check out the new piece of art I bought!";
+
+//Email
+"Use a valid email so I can email you cool stuff" = "Use a valid email so I can email you cool stuff";
+"Invalid email"  = "Invalid email";
+
+//Shipping/Billing Information validation
+"* Country is required." = "• Country is required.";
+"* First name is required." = "• First name is required.";
+"* Last name is required." = "• Last name is required.";
+"* Address is required." = "• Address is required.";
+"* City is required." = "• City is required.";
+"* Zip code is required." = "• Zip code is required.";
+"* State is required." = "• State is required.";
+"* Email is required." = "• Email is required.";
+"* Phone number is required." = "• Phone number is required.";
+
+"Confirm email" = "Confirm email";
+"Your emails should match." = "Your emails should match.";
+
+//Error title if any billing fields are missing
+"Missing required fields" = "Missing required fields";
+
+"Validating credit card..." = "Validating credit card...";
+
+//Credit card association - not related to bad card number
+"Your credit card could not be processed. Please try again or call us at 415-228-0842." = "Your credit card could not be processed. Please try again or call us at 415-228-0842.";
+
+
+"Looks like something's wrong with your credit card." = "Looks like something's wrong with your credit card.";
+"* Name on card is required." = "• Name on card is required";
+"* Credit card number is required." = "• Credit card number is required.";
+"* Card expiration is required." = "• Card expiration is required.";
+"* Security code is required." = "• Security code is required.";
+
+//Recommendation
+"RECOMMENDING_ART" = "Get comfy";
+"RECOMMENDING_ART_DETAIL" = "while we find artwork inspired by\n the colors in your space.";
+
+//Payments
+"TEXT_THAT_APPEARS_ON_STATEMENT" = "ARTtwo50 art";
+"TEXT_THAT_APPEARS_ON_DASHBOARD_FOR_DEBIT" = "Someone just got original!";
+
+
+//Purchasing
+"Purchasing your new art..." = "Purchasing your new art...";
+"Your wall is going to look great!" = "Your wall is going to look great!";
+"Please check your email for order confirmation and shipping updates\n\n Next, would you like to:" = "Please check your email for order confirmation and shipping updates\n\n Next, would you like to:";
+"Take photo of a new wall" = "Take a photo of a new wall";
+"No thanks, I'm done for now" = "No thanks, I'm done for now";
+
+//Full collection
+"Your collection is now full." = "Your collection is now full.";
+"Would you like to:" = "Would you like to:";
+"Buy some art!" = "Buy some Art!";
+
+
+"TRYING_TO_SWAPP_WITH_EMPTY_SLOTS" = "Please drag this piece to an open space in your collection";
+"ADDING_TO_FULL_COLLECTION" = "To make room, please drag a piece out of your collection";
+
+
+
+
+//Payment info screen
+"Use Shipping Address" = "Use Shipping Address";
+"Add Billing Address" = "Add Billing Address";
+
+//Payment receipt screen
+"Shipping" = "Shipping";
+"Gift Card" = "Gift Card";
+"Sub Total" = "Sub Total";
+
+//Settings
+"Choose at least one image to share" = "Choose at least one image to share";
+
+//Sharing
+"Shared artwork successfully" = "Shared artwork successfully";
+//Sharing email
+"Considering these paintings from ARTtwo50" = "Check out these pieces from ARTtwo50!";
+"CANNOT_SHARE_MORE_THAN_4_PIECES" = "You cannot share more than 4 paintings";
+
+//Shipping
+"Missing shipping info." = "Missing shipping info.";
+
+//WalkThrough 1
+"Take a Photo" = "Take a Photo";
+"Let's add some color to your space by finding original art to hang on your wall." = "See original art virtually hanging on your wall.";
+
+//WalkThrough 2
+"Browse handpicked artwork" = "Browse recommendations";
+"Art is selected for your space based on the colors from the photo you took and the size you choose." = "Inspired by you and the colors in your space.";
+
+//WalkThrough 3
+"Seek input from friends" = "Share your favorites";
+"Ask your friends or family for feedback if you want input with your original art purchase." = "Pick the perfect piece with a little help from your friends.";
+
+//WalkThrough 4
+"Purchase something original" = "Purchase original art";
+"It's simple, all artwork is $250 with free shipping. Enjoy being original." = "From the artist to your wall\n for only $250 with free shipping!";
+
+//WalkThrough 5
+"It's time to take a photo" = "Time to be original!";
+"Please STAND UP in front of the wall in need of art." = "Please STAND UP in front of your wall.";
+
+//Cart button error message
+"Add artwork to your collection to add to your cart." = "Add artwork to your collection below to add to your cart.";
+"Oops" = "Oops";
+//Feedback button error
+"Add artwork to your collection below to get feedback from your friends." = "Add artwork to your collection below to get feedback from your friends.";

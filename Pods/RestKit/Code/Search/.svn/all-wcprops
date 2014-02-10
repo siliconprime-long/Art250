@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/ARTtwo50/Art250.git/!svn/ver/121/trunk/Pods/RestKit/Code/Search
+END
+RKManagedObjectStore+RKSearchAdditions.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/ARTtwo50/Art250.git/!svn/ver/121/trunk/Pods/RestKit/Code/Search/RKManagedObjectStore+RKSearchAdditions.h
+END
+RKSearchWordEntity.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/ARTtwo50/Art250.git/!svn/ver/121/trunk/Pods/RestKit/Code/Search/RKSearchWordEntity.h
+END
+RKSearchTokenizer.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/ARTtwo50/Art250.git/!svn/ver/121/trunk/Pods/RestKit/Code/Search/RKSearchTokenizer.h
+END
+RKSearchWord.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/ARTtwo50/Art250.git/!svn/ver/121/trunk/Pods/RestKit/Code/Search/RKSearchWord.h
+END
+RKManagedObjectStore+RKSearchAdditions.m
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/ARTtwo50/Art250.git/!svn/ver/121/trunk/Pods/RestKit/Code/Search/RKManagedObjectStore+RKSearchAdditions.m
+END
+RKSearchWordEntity.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/ARTtwo50/Art250.git/!svn/ver/121/trunk/Pods/RestKit/Code/Search/RKSearchWordEntity.m
+END
+RKSearchIndexer.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/ARTtwo50/Art250.git/!svn/ver/121/trunk/Pods/RestKit/Code/Search/RKSearchIndexer.h
+END
+RKSearchTokenizer.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/ARTtwo50/Art250.git/!svn/ver/121/trunk/Pods/RestKit/Code/Search/RKSearchTokenizer.m
+END
+RKSearchPredicate.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/ARTtwo50/Art250.git/!svn/ver/121/trunk/Pods/RestKit/Code/Search/RKSearchPredicate.h
+END
+RKSearchWord.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/ARTtwo50/Art250.git/!svn/ver/121/trunk/Pods/RestKit/Code/Search/RKSearchWord.m
+END
+RKSearchIndexer.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/ARTtwo50/Art250.git/!svn/ver/121/trunk/Pods/RestKit/Code/Search/RKSearchIndexer.m
+END
+RKSearchPredicate.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/ARTtwo50/Art250.git/!svn/ver/121/trunk/Pods/RestKit/Code/Search/RKSearchPredicate.m
+END

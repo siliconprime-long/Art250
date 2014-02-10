@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/ARTtwo50/Art250.git/!svn/ver/121/trunk/Pods/RestKit/Code/Network
+END
+RKRequestDescriptor.m
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/ARTtwo50/Art250.git/!svn/ver/121/trunk/Pods/RestKit/Code/Network/RKRequestDescriptor.m
+END
+RKResponseDescriptor.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/ARTtwo50/Art250.git/!svn/ver/121/trunk/Pods/RestKit/Code/Network/RKResponseDescriptor.h
+END
+RKRoute.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/ARTtwo50/Art250.git/!svn/ver/121/trunk/Pods/RestKit/Code/Network/RKRoute.h
+END
+RKObjectRequestOperation.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/ARTtwo50/Art250.git/!svn/ver/121/trunk/Pods/RestKit/Code/Network/RKObjectRequestOperation.h
+END
+RKObjectManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/ARTtwo50/Art250.git/!svn/ver/121/trunk/Pods/RestKit/Code/Network/RKObjectManager.h
+END
+RKResponseDescriptor.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/ARTtwo50/Art250.git/!svn/ver/121/trunk/Pods/RestKit/Code/Network/RKResponseDescriptor.m
+END
+RKRoute.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/ARTtwo50/Art250.git/!svn/ver/121/trunk/Pods/RestKit/Code/Network/RKRoute.m
+END
+RKObjectRequestOperation.m
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/ARTtwo50/Art250.git/!svn/ver/121/trunk/Pods/RestKit/Code/Network/RKObjectRequestOperation.m
+END
+RKObjectParameterization.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/ARTtwo50/Art250.git/!svn/ver/121/trunk/Pods/RestKit/Code/Network/RKObjectParameterization.h
+END
+RKObjectManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/ARTtwo50/Art250.git/!svn/ver/121/trunk/Pods/RestKit/Code/Network/RKObjectManager.m
+END
+RKRequestOperationSubclass.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/ARTtwo50/Art250.git/!svn/ver/121/trunk/Pods/RestKit/Code/Network/RKRequestOperationSubclass.h
+END
+RKHTTPRequestOperation.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/ARTtwo50/Art250.git/!svn/ver/121/trunk/Pods/RestKit/Code/Network/RKHTTPRequestOperation.h
+END
+RKObjectParameterization.m
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/ARTtwo50/Art250.git/!svn/ver/121/trunk/Pods/RestKit/Code/Network/RKObjectParameterization.m
+END
+RKRouteSet.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/ARTtwo50/Art250.git/!svn/ver/121/trunk/Pods/RestKit/Code/Network/RKRouteSet.h
+END
+RKManagedObjectRequestOperation.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/ARTtwo50/Art250.git/!svn/ver/121/trunk/Pods/RestKit/Code/Network/RKManagedObjectRequestOperation.h
+END
+RKHTTPRequestOperation.m
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/ARTtwo50/Art250.git/!svn/ver/121/trunk/Pods/RestKit/Code/Network/RKHTTPRequestOperation.m
+END
+RKRouteSet.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/ARTtwo50/Art250.git/!svn/ver/121/trunk/Pods/RestKit/Code/Network/RKRouteSet.m
+END
+RKRouter.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/ARTtwo50/Art250.git/!svn/ver/121/trunk/Pods/RestKit/Code/Network/RKRouter.h
+END
+RKManagedObjectRequestOperation.m
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/ARTtwo50/Art250.git/!svn/ver/121/trunk/Pods/RestKit/Code/Network/RKManagedObjectRequestOperation.m
+END
+RKPaginator.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/ARTtwo50/Art250.git/!svn/ver/121/trunk/Pods/RestKit/Code/Network/RKPaginator.h
+END
+RKResponseMapperOperation.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/ARTtwo50/Art250.git/!svn/ver/121/trunk/Pods/RestKit/Code/Network/RKResponseMapperOperation.h
+END
+RKRouter.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/ARTtwo50/Art250.git/!svn/ver/121/trunk/Pods/RestKit/Code/Network/RKRouter.m
+END
+RKRequestDescriptor.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/ARTtwo50/Art250.git/!svn/ver/121/trunk/Pods/RestKit/Code/Network/RKRequestDescriptor.h
+END
+RKPaginator.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/ARTtwo50/Art250.git/!svn/ver/121/trunk/Pods/RestKit/Code/Network/RKPaginator.m
+END
+RKResponseMapperOperation.m
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/ARTtwo50/Art250.git/!svn/ver/121/trunk/Pods/RestKit/Code/Network/RKResponseMapperOperation.m
+END

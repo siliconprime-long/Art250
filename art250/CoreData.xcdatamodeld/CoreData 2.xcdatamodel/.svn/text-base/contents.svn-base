@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="3401" systemVersion="13A603" minimumToolsVersion="Xcode 4.3" macOSVersion="Automatic" iOSVersion="Automatic">
+    <entity name="Artist" representedClassName="Artist" syncable="YES">
+        <attribute name="artworkCount" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="email" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="userID" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <relationship name="artworks" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="Artwork" inverseName="artist" inverseEntity="Artwork" syncable="YES"/>
+        <relationship name="profile" optional="YES" minCount="1" maxCount="1" deletionRule="Nullify" destinationEntity="ArtistProfile" inverseName="artist" inverseEntity="ArtistProfile" syncable="YES"/>
+    </entity>
+    <entity name="ArtistProfile" representedClassName="ArtistProfile" syncable="YES">
+        <attribute name="address1" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="address2" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="artistStatement" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="city" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="firstName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="lastName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="profileImageURL" optional="YES" attributeType="Transformable" syncable="YES"/>
+        <attribute name="profilePreviewURL" optional="YES" attributeType="Transformable" syncable="YES"/>
+        <attribute name="profileThumbURL" optional="YES" attributeType="Transformable" syncable="YES"/>
+        <attribute name="state" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="artist" optional="YES" minCount="1" maxCount="1" deletionRule="Nullify" destinationEntity="Artist" inverseName="profile" inverseEntity="Artist" syncable="YES"/>
+    </entity>
+    <entity name="Artwork" representedClassName="Artwork" syncable="YES">
+        <attribute name="addedToCartAt" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="algorithmUsed" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="artworkDescription" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="artworkID" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="artworkImgURL" optional="YES" attributeType="Transformable" syncable="YES"/>
+        <attribute name="columns" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="depth" optional="YES" attributeType="Float" defaultValueString="0" syncable="YES"/>
+        <attribute name="genre" optional="YES" attributeType="Transformable" syncable="YES"/>
+        <attribute name="height" optional="YES" attributeType="Float" defaultValueString="0" syncable="YES"/>
+        <attribute name="inCart" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="inCollection" optional="YES" attributeType="Boolean" defaultValueString="NO" syncable="YES"/>
+        <attribute name="ipadDisplayImgURL" optional="YES" attributeType="Transformable" syncable="YES"/>
+        <attribute name="keyword" optional="YES" attributeType="Transformable" syncable="YES"/>
+        <attribute name="medium" optional="YES" attributeType="Transformable" syncable="YES"/>
+        <attribute name="numInOtherCollections" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="previewImgURL" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="price" optional="YES" attributeType="Float" defaultValueString="0.0" syncable="YES"/>
+        <attribute name="recommended" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="rows" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="shippingRequirements" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="slotIndex" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="soldAt" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="state" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="thumbImgURL" optional="YES" attributeType="Transformable" syncable="YES"/>
+        <attribute name="title" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="userID" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="weight" optional="YES" attributeType="Float" defaultValueString="0.0" syncable="YES"/>
+        <attribute name="width" optional="YES" attributeType="Float" defaultValueString="0.0" syncable="YES"/>
+        <relationship name="artist" optional="YES" minCount="1" maxCount="1" deletionRule="Nullify" destinationEntity="Artist" inverseName="artworks" inverseEntity="Artist" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="Artist" positionX="0" positionY="0" width="0" height="0"/>
+        <element name="ArtistProfile" positionX="0" positionY="0" width="0" height="0"/>
+        <element name="Artwork" positionX="0" positionY="0" width="0" height="0"/>
+    </elements>
+</model>

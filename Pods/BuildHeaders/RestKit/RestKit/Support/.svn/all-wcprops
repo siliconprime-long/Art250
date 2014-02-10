@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/ARTtwo50/Art250.git/!svn/ver/121/trunk/Pods/BuildHeaders/RestKit/RestKit/Support
+END
+lcl_config_logger_RK.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/ARTtwo50/Art250.git/!svn/ver/121/trunk/Pods/BuildHeaders/RestKit/RestKit/Support/lcl_config_logger_RK.h
+END
+RKPathMatcher.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/ARTtwo50/Art250.git/!svn/ver/121/trunk/Pods/BuildHeaders/RestKit/RestKit/Support/RKPathMatcher.h
+END
+RKDictionaryUtilities.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/ARTtwo50/Art250.git/!svn/ver/121/trunk/Pods/BuildHeaders/RestKit/RestKit/Support/RKDictionaryUtilities.h
+END
+lcl_config_components_RK.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/ARTtwo50/Art250.git/!svn/ver/121/trunk/Pods/BuildHeaders/RestKit/RestKit/Support/lcl_config_components_RK.h
+END
+RKNSJSONSerialization.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/ARTtwo50/Art250.git/!svn/ver/121/trunk/Pods/BuildHeaders/RestKit/RestKit/Support/RKNSJSONSerialization.h
+END
+RKMIMETypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/ARTtwo50/Art250.git/!svn/ver/121/trunk/Pods/BuildHeaders/RestKit/RestKit/Support/RKMIMETypes.h
+END
+RKErrors.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/ARTtwo50/Art250.git/!svn/ver/121/trunk/Pods/BuildHeaders/RestKit/RestKit/Support/RKErrors.h
+END
+lcl_config_extensions_RK.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/ARTtwo50/Art250.git/!svn/ver/121/trunk/Pods/BuildHeaders/RestKit/RestKit/Support/lcl_config_extensions_RK.h
+END
+RKSerialization.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/ARTtwo50/Art250.git/!svn/ver/121/trunk/Pods/BuildHeaders/RestKit/RestKit/Support/RKSerialization.h
+END
+RKDotNetDateFormatter.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/ARTtwo50/Art250.git/!svn/ver/121/trunk/Pods/BuildHeaders/RestKit/RestKit/Support/RKDotNetDateFormatter.h
+END
+RKLog.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/ARTtwo50/Art250.git/!svn/ver/121/trunk/Pods/BuildHeaders/RestKit/RestKit/Support/RKLog.h
+END
+RKURLEncodedSerialization.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/ARTtwo50/Art250.git/!svn/ver/121/trunk/Pods/BuildHeaders/RestKit/RestKit/Support/RKURLEncodedSerialization.h
+END
+RKMacros.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/ARTtwo50/Art250.git/!svn/ver/121/trunk/Pods/BuildHeaders/RestKit/RestKit/Support/RKMacros.h
+END
+RKOperationStateMachine.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/ARTtwo50/Art250.git/!svn/ver/121/trunk/Pods/BuildHeaders/RestKit/RestKit/Support/RKOperationStateMachine.h
+END
+RKMIMETypeSerialization.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/ARTtwo50/Art250.git/!svn/ver/121/trunk/Pods/BuildHeaders/RestKit/RestKit/Support/RKMIMETypeSerialization.h
+END
+RKPathUtilities.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/ARTtwo50/Art250.git/!svn/ver/121/trunk/Pods/BuildHeaders/RestKit/RestKit/Support/RKPathUtilities.h
+END
+RKISO8601DateFormatter.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/ARTtwo50/Art250.git/!svn/ver/121/trunk/Pods/BuildHeaders/RestKit/RestKit/Support/RKISO8601DateFormatter.h
+END

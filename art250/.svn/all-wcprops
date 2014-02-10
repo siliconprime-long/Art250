@@ -1,0 +1,1931 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/ARTtwo50/Art250.git/!svn/ver/213/trunk/art250
+END
+ATNewsFeedViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/ARTtwo50/Art250.git/!svn/ver/165/trunk/art250/ATNewsFeedViewController.m
+END
+ATShareViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/ARTtwo50/Art250.git/!svn/ver/210/trunk/art250/ATShareViewController.m
+END
+ATCollectionChooserViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/ARTtwo50/Art250.git/!svn/ver/172/trunk/art250/ATCollectionChooserViewController.xib
+END
+ATShareCelebrationViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/ARTtwo50/Art250.git/!svn/ver/172/trunk/art250/ATShareCelebrationViewController.h
+END
+ATColorFilterTblViewDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/ARTtwo50/Art250.git/!svn/ver/8/trunk/art250/ATColorFilterTblViewDelegate.h
+END
+ATShareCelebrationViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/ARTtwo50/Art250.git/!svn/ver/208/trunk/art250/ATShareCelebrationViewController.m
+END
+ProximaNova-Sbold.otf
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/ARTtwo50/Art250.git/!svn/ver/131/trunk/art250/ProximaNova-Sbold.otf
+END
+ATNotificationManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/ARTtwo50/Art250.git/!svn/ver/148/trunk/art250/ATNotificationManager.h
+END
+ATColorFilterTblViewDelegate.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/ARTtwo50/Art250.git/!svn/ver/8/trunk/art250/ATColorFilterTblViewDelegate.m
+END
+ATNotificationManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/ARTtwo50/Art250.git/!svn/ver/207/trunk/art250/ATNotificationManager.m
+END
+ATSignOutViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/ARTtwo50/Art250.git/!svn/ver/143/trunk/art250/ATSignOutViewController.h
+END
+ATIntroViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/ARTtwo50/Art250.git/!svn/ver/88/trunk/art250/ATIntroViewController.h
+END
+ATSignOutViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/ARTtwo50/Art250.git/!svn/ver/143/trunk/art250/ATSignOutViewController.m
+END
+ATIntroViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/ARTtwo50/Art250.git/!svn/ver/142/trunk/art250/ATIntroViewController.m
+END
+ATWishlistViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/ARTtwo50/Art250.git/!svn/ver/213/trunk/art250/ATWishlistViewController.h
+END
+ATMenuTableViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/ARTtwo50/Art250.git/!svn/ver/172/trunk/art250/ATMenuTableViewController.xib
+END
+ATSizeFilterTblViewDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/ARTtwo50/Art250.git/!svn/ver/8/trunk/art250/ATSizeFilterTblViewDelegate.h
+END
+ATArtistsDirectoryViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/ARTtwo50/Art250.git/!svn/ver/192/trunk/art250/ATArtistsDirectoryViewController.xib
+END
+ATWishlistViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/ARTtwo50/Art250.git/!svn/ver/213/trunk/art250/ATWishlistViewController.m
+END
+ATSizeFilterTblViewDelegate.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/ARTtwo50/Art250.git/!svn/ver/8/trunk/art250/ATSizeFilterTblViewDelegate.m
+END
+ATFTDWalkthrough1ViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/ARTtwo50/Art250.git/!svn/ver/122/trunk/art250/ATFTDWalkthrough1ViewController.h
+END
+ATFTDWalkthrough2ViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/ARTtwo50/Art250.git/!svn/ver/140/trunk/art250/ATFTDWalkthrough2ViewController.h
+END
+ATFTDWalkthrough3ViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/ARTtwo50/Art250.git/!svn/ver/140/trunk/art250/ATFTDWalkthrough3ViewController.h
+END
+ATFTDWalkthrough8ViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/ARTtwo50/Art250.git/!svn/ver/140/trunk/art250/ATFTDWalkthrough8ViewController.xib
+END
+ATFTDWalkthrough4ViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/ARTtwo50/Art250.git/!svn/ver/122/trunk/art250/ATFTDWalkthrough4ViewController.h
+END
+ATFTDWalkthrough5ViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/ARTtwo50/Art250.git/!svn/ver/122/trunk/art250/ATFTDWalkthrough5ViewController.h
+END
+ATTransientArtwork.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/ARTtwo50/Art250.git/!svn/ver/183/trunk/art250/ATTransientArtwork.h
+END
+ATFTDWalkthrough1ViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/ARTtwo50/Art250.git/!svn/ver/122/trunk/art250/ATFTDWalkthrough1ViewController.m
+END
+ATFTDWalkthrough6ViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/ARTtwo50/Art250.git/!svn/ver/122/trunk/art250/ATFTDWalkthrough6ViewController.h
+END
+ATFTDWalkthrough2ViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/ARTtwo50/Art250.git/!svn/ver/147/trunk/art250/ATFTDWalkthrough2ViewController.m
+END
+ATFTDWalkthrough7ViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/ARTtwo50/Art250.git/!svn/ver/122/trunk/art250/ATFTDWalkthrough7ViewController.h
+END
+ATFTDWalkthrough3ViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/ARTtwo50/Art250.git/!svn/ver/140/trunk/art250/ATFTDWalkthrough3ViewController.m
+END
+ATFTDWalkthrough8ViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/ARTtwo50/Art250.git/!svn/ver/122/trunk/art250/ATFTDWalkthrough8ViewController.h
+END
+ATFTDWalkthrough4ViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/ARTtwo50/Art250.git/!svn/ver/122/trunk/art250/ATFTDWalkthrough4ViewController.m
+END
+art250-Info.plist
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/ARTtwo50/Art250.git/!svn/ver/194/trunk/art250/art250-Info.plist
+END
+ATCollectionManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/ARTtwo50/Art250.git/!svn/ver/148/trunk/art250/ATCollectionManager.h
+END
+ATFTDWalkthrough5ViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/ARTtwo50/Art250.git/!svn/ver/122/trunk/art250/ATFTDWalkthrough5ViewController.m
+END
+ATTransientArtwork.m
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/ARTtwo50/Art250.git/!svn/ver/183/trunk/art250/ATTransientArtwork.m
+END
+ATFTDWalkthrough6ViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/ARTtwo50/Art250.git/!svn/ver/122/trunk/art250/ATFTDWalkthrough6ViewController.m
+END
+ATFTDWalkthrough7ViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/ARTtwo50/Art250.git/!svn/ver/122/trunk/art250/ATFTDWalkthrough7ViewController.m
+END
+ATFTDWalkthrough8ViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/ARTtwo50/Art250.git/!svn/ver/122/trunk/art250/ATFTDWalkthrough8ViewController.m
+END
+ATCollectionManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/ARTtwo50/Art250.git/!svn/ver/192/trunk/art250/ATCollectionManager.m
+END
+ATLoginViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/ARTtwo50/Art250.git/!svn/ver/145/trunk/art250/ATLoginViewController.xib
+END
+ArtistProfile.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/ARTtwo50/Art250.git/!svn/ver/186/trunk/art250/ArtistProfile.h
+END
+ATFAQViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/ARTtwo50/Art250.git/!svn/ver/80/trunk/art250/ATFAQViewController.h
+END
+ArtistProfile.m
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/ARTtwo50/Art250.git/!svn/ver/183/trunk/art250/ArtistProfile.m
+END
+ATPaymentManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/ARTtwo50/Art250.git/!svn/ver/194/trunk/art250/ATPaymentManager.h
+END
+ATAppDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/ARTtwo50/Art250.git/!svn/ver/211/trunk/art250/ATAppDelegate.h
+END
+ATFAQViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/ARTtwo50/Art250.git/!svn/ver/146/trunk/art250/ATFAQViewController.m
+END
+ATPaymentManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/ARTtwo50/Art250.git/!svn/ver/194/trunk/art250/ATPaymentManager.m
+END
+ATAppDelegate.m
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/ARTtwo50/Art250.git/!svn/ver/211/trunk/art250/ATAppDelegate.m
+END
+ATPriceMenuViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/ARTtwo50/Art250.git/!svn/ver/166/trunk/art250/ATPriceMenuViewController.xib
+END
+Artist.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/ARTtwo50/Art250.git/!svn/ver/183/trunk/art250/Artist.h
+END
+ATLoggedInViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/ARTtwo50/Art250.git/!svn/ver/167/trunk/art250/ATLoggedInViewController.xib
+END
+ATSplashViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/ARTtwo50/Art250.git/!svn/ver/164/trunk/art250/ATSplashViewController.xib
+END
+Artist.m
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/ARTtwo50/Art250.git/!svn/ver/188/trunk/art250/Artist.m
+END
+ATCustomProximaNovaLabel.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/ARTtwo50/Art250.git/!svn/ver/131/trunk/art250/ATCustomProximaNovaLabel.h
+END
+ATWishlistViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/ARTtwo50/Art250.git/!svn/ver/213/trunk/art250/ATWishlistViewController.xib
+END
+ATCollectionsMenuViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/ARTtwo50/Art250.git/!svn/ver/167/trunk/art250/ATCollectionsMenuViewController.h
+END
+ATCustomProximaNovaLabel.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/ARTtwo50/Art250.git/!svn/ver/131/trunk/art250/ATCustomProximaNovaLabel.m
+END
+ATFacebookManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/ARTtwo50/Art250.git/!svn/ver/126/trunk/art250/ATFacebookManager.h
+END
+Artwork.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/ARTtwo50/Art250.git/!svn/ver/188/trunk/art250/Artwork.h
+END
+ATHangitContainerViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/ARTtwo50/Art250.git/!svn/ver/179/trunk/art250/ATHangitContainerViewController.xib
+END
+ATCollectionsMenuViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/ARTtwo50/Art250.git/!svn/ver/167/trunk/art250/ATCollectionsMenuViewController.m
+END
+ATFTDWalkthrough1ViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/ARTtwo50/Art250.git/!svn/ver/171/trunk/art250/ATFTDWalkthrough1ViewController.xib
+END
+ATFacebookManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/ARTtwo50/Art250.git/!svn/ver/192/trunk/art250/ATFacebookManager.m
+END
+Artwork.m
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/ARTtwo50/Art250.git/!svn/ver/192/trunk/art250/Artwork.m
+END
+ATMenuTableViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/ARTtwo50/Art250.git/!svn/ver/172/trunk/art250/ATMenuTableViewController.h
+END
+ATHangitContainerViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/ARTtwo50/Art250.git/!svn/ver/213/trunk/art250/ATHangitContainerViewController.h
+END
+ATArtObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/ARTtwo50/Art250.git/!svn/ver/183/trunk/art250/ATArtObject.h
+END
+ATMenuTableViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/ARTtwo50/Art250.git/!svn/ver/200/trunk/art250/ATMenuTableViewController.m
+END
+ATHangitContainerViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/ARTtwo50/Art250.git/!svn/ver/213/trunk/art250/ATHangitContainerViewController.m
+END
+ATArtObject.m
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/ARTtwo50/Art250.git/!svn/ver/183/trunk/art250/ATArtObject.m
+END
+ATCameraOverlayViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/ARTtwo50/Art250.git/!svn/ver/145/trunk/art250/ATCameraOverlayViewController.xib
+END
+ProximaNova-Bold.otf
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/ARTtwo50/Art250.git/!svn/ver/131/trunk/art250/ProximaNova-Bold.otf
+END
+ATTransientArtist.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/ARTtwo50/Art250.git/!svn/ver/183/trunk/art250/ATTransientArtist.h
+END
+ATTransientArtist.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/ARTtwo50/Art250.git/!svn/ver/183/trunk/art250/ATTransientArtist.m
+END
+ATArtDetailView.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/ARTtwo50/Art250.git/!svn/ver/7/trunk/art250/ATArtDetailView.h
+END
+CustomKeyboard.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/ARTtwo50/Art250.git/!svn/ver/107/trunk/art250/CustomKeyboard.h
+END
+GlobalConstants.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/ARTtwo50/Art250.git/!svn/ver/186/trunk/art250/GlobalConstants.h
+END
+ATArtDetailView.m
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/ARTtwo50/Art250.git/!svn/ver/99/trunk/art250/ATArtDetailView.m
+END
+ATUserManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/ARTtwo50/Art250.git/!svn/ver/172/trunk/art250/ATUserManager.h
+END
+CustomKeyboard.m
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/ARTtwo50/Art250.git/!svn/ver/210/trunk/art250/CustomKeyboard.m
+END
+ATCheckoutCartViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/ARTtwo50/Art250.git/!svn/ver/136/trunk/art250/ATCheckoutCartViewController.h
+END
+ATUserManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/ARTtwo50/Art250.git/!svn/ver/210/trunk/art250/ATUserManager.m
+END
+ATAddToCollectionNotificationEvent.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/ARTtwo50/Art250.git/!svn/ver/148/trunk/art250/ATAddToCollectionNotificationEvent.h
+END
+ATArtworkButtonView.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/ARTtwo50/Art250.git/!svn/ver/119/trunk/art250/ATArtworkButtonView.h
+END
+iTunesArtwork@2x
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/ARTtwo50/Art250.git/!svn/ver/107/trunk/art250/iTunesArtwork@2x
+END
+ATCheckoutCartViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/ARTtwo50/Art250.git/!svn/ver/210/trunk/art250/ATCheckoutCartViewController.m
+END
+ATCartViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/ARTtwo50/Art250.git/!svn/ver/172/trunk/art250/ATCartViewController.xib
+END
+ATFTDIntroViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/ARTtwo50/Art250.git/!svn/ver/171/trunk/art250/ATFTDIntroViewController.xib
+END
+ATAddToCollectionNotificationEvent.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/ARTtwo50/Art250.git/!svn/ver/148/trunk/art250/ATAddToCollectionNotificationEvent.m
+END
+ATArtworkButtonView.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/ARTtwo50/Art250.git/!svn/ver/119/trunk/art250/ATArtworkButtonView.m
+END
+ATDatabaseManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/ARTtwo50/Art250.git/!svn/ver/192/trunk/art250/ATDatabaseManager.h
+END
+ATDatabaseManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/ARTtwo50/Art250.git/!svn/ver/192/trunk/art250/ATDatabaseManager.m
+END
+Icon-Small.png
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/ARTtwo50/Art250.git/!svn/ver/104/trunk/art250/Icon-Small.png
+END
+iTunesArtwork
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/ARTtwo50/Art250.git/!svn/ver/104/trunk/art250/iTunesArtwork
+END
+ATAboutViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/ARTtwo50/Art250.git/!svn/ver/80/trunk/art250/ATAboutViewController.h
+END
+ATFTDWalkthrough2ViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/ARTtwo50/Art250.git/!svn/ver/171/trunk/art250/ATFTDWalkthrough2ViewController.xib
+END
+ATInactiveArtworkProxy.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/ARTtwo50/Art250.git/!svn/ver/186/trunk/art250/ATInactiveArtworkProxy.h
+END
+ATHowToNavigateViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/ARTtwo50/Art250.git/!svn/ver/167/trunk/art250/ATHowToNavigateViewController.h
+END
+ATAboutViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/ARTtwo50/Art250.git/!svn/ver/147/trunk/art250/ATAboutViewController.m
+END
+ATTestingControllerViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/ARTtwo50/Art250.git/!svn/ver/152/trunk/art250/ATTestingControllerViewController.h
+END
+ATInactiveArtworkProxy.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/ARTtwo50/Art250.git/!svn/ver/186/trunk/art250/ATInactiveArtworkProxy.m
+END
+ATHowToNavigateViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/ARTtwo50/Art250.git/!svn/ver/200/trunk/art250/ATHowToNavigateViewController.m
+END
+ATArtContainerViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/ARTtwo50/Art250.git/!svn/ver/164/trunk/art250/ATArtContainerViewController.xib
+END
+ATWalkThroughView6Controller.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/ARTtwo50/Art250.git/!svn/ver/86/trunk/art250/ATWalkThroughView6Controller.h
+END
+ProximaNova-Light.otf
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/ARTtwo50/Art250.git/!svn/ver/131/trunk/art250/ProximaNova-Light.otf
+END
+ATTestingControllerViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/ARTtwo50/Art250.git/!svn/ver/152/trunk/art250/ATTestingControllerViewController.m
+END
+ATCustomButtonAlertView.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/ARTtwo50/Art250.git/!svn/ver/99/trunk/art250/ATCustomButtonAlertView.h
+END
+ATWalkThroughView6Controller.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/ARTtwo50/Art250.git/!svn/ver/147/trunk/art250/ATWalkThroughView6Controller.m
+END
+ATNewsFeedViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/ARTtwo50/Art250.git/!svn/ver/192/trunk/art250/ATNewsFeedViewController.xib
+END
+ATSubjectFilterTblViewDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/ARTtwo50/Art250.git/!svn/ver/8/trunk/art250/ATSubjectFilterTblViewDelegate.h
+END
+ATCollectionTableViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/ARTtwo50/Art250.git/!svn/ver/133/trunk/art250/ATCollectionTableViewController.xib
+END
+ATCustomButtonAlertView.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/ARTtwo50/Art250.git/!svn/ver/125/trunk/art250/ATCustomButtonAlertView.m
+END
+ATCustomProximaNovaBoldLabel.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/ARTtwo50/Art250.git/!svn/ver/131/trunk/art250/ATCustomProximaNovaBoldLabel.h
+END
+ATSubjectFilterTblViewDelegate.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/ARTtwo50/Art250.git/!svn/ver/8/trunk/art250/ATSubjectFilterTblViewDelegate.m
+END
+ATCustomProximaNovaBoldLabel.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/ARTtwo50/Art250.git/!svn/ver/131/trunk/art250/ATCustomProximaNovaBoldLabel.m
+END
+ATSignInSignUpViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/ARTtwo50/Art250.git/!svn/ver/164/trunk/art250/ATSignInSignUpViewController.xib
+END
+ATProfileSettingsViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/ARTtwo50/Art250.git/!svn/ver/43/trunk/art250/ATProfileSettingsViewController.xib
+END
+ATSignInSignUpViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/ARTtwo50/Art250.git/!svn/ver/143/trunk/art250/ATSignInSignUpViewController.h
+END
+ATImagePickerViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/ARTtwo50/Art250.git/!svn/ver/45/trunk/art250/ATImagePickerViewController.h
+END
+ATSignInSignUpViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/ARTtwo50/Art250.git/!svn/ver/210/trunk/art250/ATSignInSignUpViewController.m
+END
+ATSignOutViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/ARTtwo50/Art250.git/!svn/ver/145/trunk/art250/ATSignOutViewController.xib
+END
+ATImagePickerViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/ARTtwo50/Art250.git/!svn/ver/167/trunk/art250/ATImagePickerViewController.m
+END
+ATArtworkFoundInOtherCollectionEvent.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/ARTtwo50/Art250.git/!svn/ver/148/trunk/art250/ATArtworkFoundInOtherCollectionEvent.h
+END
+ATArtistObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/ARTtwo50/Art250.git/!svn/ver/119/trunk/art250/ATArtistObject.h
+END
+ATSettingsViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/ARTtwo50/Art250.git/!svn/ver/126/trunk/art250/ATSettingsViewController.h
+END
+ATRoomMenuViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/ARTtwo50/Art250.git/!svn/ver/167/trunk/art250/ATRoomMenuViewController.h
+END
+ATArtworkFoundInOtherCollectionEvent.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/ARTtwo50/Art250.git/!svn/ver/172/trunk/art250/ATArtworkFoundInOtherCollectionEvent.m
+END
+ATArtistObject.m
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/ARTtwo50/Art250.git/!svn/ver/147/trunk/art250/ATArtistObject.m
+END
+ATSettingsViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/ARTtwo50/Art250.git/!svn/ver/210/trunk/art250/ATSettingsViewController.m
+END
+ATRoomMenuViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/ARTtwo50/Art250.git/!svn/ver/167/trunk/art250/ATRoomMenuViewController.m
+END
+ATFTDWalkthrough3ViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/ARTtwo50/Art250.git/!svn/ver/145/trunk/art250/ATFTDWalkthrough3ViewController.xib
+END
+ATStatePickerController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/ARTtwo50/Art250.git/!svn/ver/42/trunk/art250/ATStatePickerController.xib
+END
+ATTouchView.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/ARTtwo50/Art250.git/!svn/ver/117/trunk/art250/ATTouchView.h
+END
+ATCreateAccountViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/ARTtwo50/Art250.git/!svn/ver/143/trunk/art250/ATCreateAccountViewController.h
+END
+TestArtRecommendation.xib
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/ARTtwo50/Art250.git/!svn/ver/136/trunk/art250/TestArtRecommendation.xib
+END
+ATTouchView.m
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/ARTtwo50/Art250.git/!svn/ver/147/trunk/art250/ATTouchView.m
+END
+ATCreateAccountViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/ARTtwo50/Art250.git/!svn/ver/210/trunk/art250/ATCreateAccountViewController.m
+END
+ATArtworkDetailViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/ARTtwo50/Art250.git/!svn/ver/168/trunk/art250/ATArtworkDetailViewController.xib
+END
+BPManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/ARTtwo50/Art250.git/!svn/ver/91/trunk/art250/BPManager.h
+END
+BPManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/ARTtwo50/Art250.git/!svn/ver/91/trunk/art250/BPManager.m
+END
+ATBlogViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/ARTtwo50/Art250.git/!svn/ver/130/trunk/art250/ATBlogViewController.xib
+END
+ATShippingInfoViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/ARTtwo50/Art250.git/!svn/ver/154/trunk/art250/ATShippingInfoViewController.xib
+END
+ATSplashViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/ARTtwo50/Art250.git/!svn/ver/58/trunk/art250/ATSplashViewController.h
+END
+ATScrollView.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/ARTtwo50/Art250.git/!svn/ver/117/trunk/art250/ATScrollView.h
+END
+ATShippingInfoViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/ARTtwo50/Art250.git/!svn/ver/107/trunk/art250/ATShippingInfoViewController.h
+END
+ATPrivacyPolicyViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/ARTtwo50/Art250.git/!svn/ver/80/trunk/art250/ATPrivacyPolicyViewController.h
+END
+ATCustomProximaNovaBoldSegmentedControl.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/ARTtwo50/Art250.git/!svn/ver/131/trunk/art250/ATCustomProximaNovaBoldSegmentedControl.h
+END
+ATTrackingManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/ARTtwo50/Art250.git/!svn/ver/147/trunk/art250/ATTrackingManager.h
+END
+ATSplashViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/ARTtwo50/Art250.git/!svn/ver/210/trunk/art250/ATSplashViewController.m
+END
+ATScrollView.m
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/ARTtwo50/Art250.git/!svn/ver/157/trunk/art250/ATScrollView.m
+END
+ATCustomProximaNovaTextView.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/ARTtwo50/Art250.git/!svn/ver/131/trunk/art250/ATCustomProximaNovaTextView.h
+END
+Localizable.strings
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/ARTtwo50/Art250.git/!svn/ver/170/trunk/art250/Localizable.strings
+END
+ATPagingViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/ARTtwo50/Art250.git/!svn/ver/101/trunk/art250/ATPagingViewController.xib
+END
+ATShippingInfoViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/ARTtwo50/Art250.git/!svn/ver/212/trunk/art250/ATShippingInfoViewController.m
+END
+ATPrivacyPolicyViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/ARTtwo50/Art250.git/!svn/ver/146/trunk/art250/ATPrivacyPolicyViewController.m
+END
+ATCustomProximaNovaBoldSegmentedControl.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/ARTtwo50/Art250.git/!svn/ver/200/trunk/art250/ATCustomProximaNovaBoldSegmentedControl.m
+END
+ATTrackingManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/ARTtwo50/Art250.git/!svn/ver/148/trunk/art250/ATTrackingManager.m
+END
+ATCustomProximaNovaTextView.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/ARTtwo50/Art250.git/!svn/ver/131/trunk/art250/ATCustomProximaNovaTextView.m
+END
+ATPagingViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/ARTtwo50/Art250.git/!svn/ver/130/trunk/art250/ATPagingViewController.h
+END
+ATPagingViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/ARTtwo50/Art250.git/!svn/ver/140/trunk/art250/ATPagingViewController.m
+END
+ATHowToNavigateViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/ARTtwo50/Art250.git/!svn/ver/172/trunk/art250/ATHowToNavigateViewController.xib
+END
+ATFTDWalkthrough4ViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/ARTtwo50/Art250.git/!svn/ver/130/trunk/art250/ATFTDWalkthrough4ViewController.xib
+END
+ATFilterButtonView.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/ARTtwo50/Art250.git/!svn/ver/57/trunk/art250/ATFilterButtonView.h
+END
+ATWalkThroughView1Controller.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/ARTtwo50/Art250.git/!svn/ver/142/trunk/art250/ATWalkThroughView1Controller.h
+END
+ATFilterButtonView.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/ARTtwo50/Art250.git/!svn/ver/4/trunk/art250/ATFilterButtonView.m
+END
+ATCartManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/ARTtwo50/Art250.git/!svn/ver/133/trunk/art250/ATCartManager.h
+END
+ATArtImageView.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/ARTtwo50/Art250.git/!svn/ver/16/trunk/art250/ATArtImageView.h
+END
+ATWalkThroughView1Controller.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/ARTtwo50/Art250.git/!svn/ver/172/trunk/art250/ATWalkThroughView1Controller.m
+END
+ATPanningImageView.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/ARTtwo50/Art250.git/!svn/ver/19/trunk/art250/ATPanningImageView.h
+END
+Icon-Large.png
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/ARTtwo50/Art250.git/!svn/ver/107/trunk/art250/Icon-Large.png
+END
+ATCartManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/ARTtwo50/Art250.git/!svn/ver/140/trunk/art250/ATCartManager.m
+END
+ATCameraOverlayViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/ARTtwo50/Art250.git/!svn/ver/124/trunk/art250/ATCameraOverlayViewController.h
+END
+ATArtImageView.m
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/ARTtwo50/Art250.git/!svn/ver/103/trunk/art250/ATArtImageView.m
+END
+ATShareViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/ARTtwo50/Art250.git/!svn/ver/172/trunk/art250/ATShareViewController.xib
+END
+ATPurchaseCompleteViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/ARTtwo50/Art250.git/!svn/ver/188/trunk/art250/ATPurchaseCompleteViewController.xib
+END
+ATPanningImageView.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/ARTtwo50/Art250.git/!svn/ver/20/trunk/art250/ATPanningImageView.m
+END
+ATCameraOverlayViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/ARTtwo50/Art250.git/!svn/ver/200/trunk/art250/ATCameraOverlayViewController.m
+END
+ATCollectionTableViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/ARTtwo50/Art250.git/!svn/ver/133/trunk/art250/ATCollectionTableViewController.h
+END
+ATShareCelebrationViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/ARTtwo50/Art250.git/!svn/ver/172/trunk/art250/ATShareCelebrationViewController.xib
+END
+ATCountryPickerController.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/ARTtwo50/Art250.git/!svn/ver/42/trunk/art250/ATCountryPickerController.h
+END
+ATIntroScreen1ViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/ARTtwo50/Art250.git/!svn/ver/140/trunk/art250/ATIntroScreen1ViewController.xib
+END
+ATCollectionTableViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/ARTtwo50/Art250.git/!svn/ver/133/trunk/art250/ATCollectionTableViewController.m
+END
+ATWebViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/ARTtwo50/Art250.git/!svn/ver/167/trunk/art250/ATWebViewController.xib
+END
+ATCountryPickerController.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/ARTtwo50/Art250.git/!svn/ver/210/trunk/art250/ATCountryPickerController.m
+END
+ATDelegatedUIImageView.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/ARTtwo50/Art250.git/!svn/ver/96/trunk/art250/ATDelegatedUIImageView.h
+END
+ATArtworkDetailViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/ARTtwo50/Art250.git/!svn/ver/168/trunk/art250/ATArtworkDetailViewController.h
+END
+ATWebViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/ARTtwo50/Art250.git/!svn/ver/80/trunk/art250/ATWebViewController.h
+END
+ATDateHelper.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/ARTtwo50/Art250.git/!svn/ver/186/trunk/art250/ATDateHelper.h
+END
+ATCustomNavViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/ARTtwo50/Art250.git/!svn/ver/43/trunk/art250/ATCustomNavViewController.h
+END
+ATDelegatedUIImageView.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/ARTtwo50/Art250.git/!svn/ver/96/trunk/art250/ATDelegatedUIImageView.m
+END
+ATArtworkDetailViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/ARTtwo50/Art250.git/!svn/ver/192/trunk/art250/ATArtworkDetailViewController.m
+END
+ATCustomPopoverBackgroundView.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/ARTtwo50/Art250.git/!svn/ver/46/trunk/art250/ATCustomPopoverBackgroundView.h
+END
+ATWebViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/ARTtwo50/Art250.git/!svn/ver/210/trunk/art250/ATWebViewController.m
+END
+ATDateHelper.m
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/ARTtwo50/Art250.git/!svn/ver/186/trunk/art250/ATDateHelper.m
+END
+ATCustomNavViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/ARTtwo50/Art250.git/!svn/ver/172/trunk/art250/ATCustomNavViewController.m
+END
+ATCustomPopoverBackgroundView.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/ARTtwo50/Art250.git/!svn/ver/126/trunk/art250/ATCustomPopoverBackgroundView.m
+END
+ProximaNova-BoldIt.otf
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/ARTtwo50/Art250.git/!svn/ver/131/trunk/art250/ProximaNova-BoldIt.otf
+END
+libReveal.dylib
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/ARTtwo50/Art250.git/!svn/ver/178/trunk/art250/libReveal.dylib
+END
+ATProgressHUDManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/ARTtwo50/Art250.git/!svn/ver/36/trunk/art250/ATProgressHUDManager.h
+END
+ATProgressHUDManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/ARTtwo50/Art250.git/!svn/ver/36/trunk/art250/ATProgressHUDManager.m
+END
+UIViewController+ATExtensions.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/ARTtwo50/Art250.git/!svn/ver/36/trunk/art250/UIViewController+ATExtensions.h
+END
+ATAPIClient.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/ARTtwo50/Art250.git/!svn/ver/46/trunk/art250/ATAPIClient.h
+END
+ATFTDWalkthrough5ViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/ARTtwo50/Art250.git/!svn/ver/130/trunk/art250/ATFTDWalkthrough5ViewController.xib
+END
+UIViewController+ATExtensions.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/ARTtwo50/Art250.git/!svn/ver/36/trunk/art250/UIViewController+ATExtensions.m
+END
+ATAPIClient.m
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/ARTtwo50/Art250.git/!svn/ver/186/trunk/art250/ATAPIClient.m
+END
+ATUser.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/ARTtwo50/Art250.git/!svn/ver/172/trunk/art250/ATUser.h
+END
+ATStatePickerController.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/ARTtwo50/Art250.git/!svn/ver/42/trunk/art250/ATStatePickerController.h
+END
+ATUser.m
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/ARTtwo50/Art250.git/!svn/ver/172/trunk/art250/ATUser.m
+END
+ATSettingsNavigationController.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/ARTtwo50/Art250.git/!svn/ver/46/trunk/art250/ATSettingsNavigationController.h
+END
+ATStatePickerController.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/ARTtwo50/Art250.git/!svn/ver/210/trunk/art250/ATStatePickerController.m
+END
+ATSettingsNavigationController.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/ARTtwo50/Art250.git/!svn/ver/80/trunk/art250/ATSettingsNavigationController.m
+END
+ATWalkThroughViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/ARTtwo50/Art250.git/!svn/ver/130/trunk/art250/ATWalkThroughViewController.h
+END
+ATShareForPromoNotificationEvent.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/ARTtwo50/Art250.git/!svn/ver/148/trunk/art250/ATShareForPromoNotificationEvent.h
+END
+ATCountryPickerController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/ARTtwo50/Art250.git/!svn/ver/42/trunk/art250/ATCountryPickerController.xib
+END
+ATWalkThroughViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/ARTtwo50/Art250.git/!svn/ver/147/trunk/art250/ATWalkThroughViewController.m
+END
+ATShareForPromoNotificationEvent.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/ARTtwo50/Art250.git/!svn/ver/148/trunk/art250/ATShareForPromoNotificationEvent.m
+END
+main.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/ARTtwo50/Art250.git/!svn/ver/3/trunk/art250/main.m
+END
+ATLoginViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/ARTtwo50/Art250.git/!svn/ver/143/trunk/art250/ATLoginViewController.h
+END
+ATIntroScreen2ViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/ARTtwo50/Art250.git/!svn/ver/186/trunk/art250/ATIntroScreen2ViewController.xib
+END
+ATArtworkButtonsViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/ARTtwo50/Art250.git/!svn/ver/74/trunk/art250/ATArtworkButtonsViewController.h
+END
+ArtistProfiles.json
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/ARTtwo50/Art250.git/!svn/ver/192/trunk/art250/ArtistProfiles.json
+END
+ATLongPressImageView.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/ARTtwo50/Art250.git/!svn/ver/186/trunk/art250/ATLongPressImageView.h
+END
+ATIntroScreen1ViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/ARTtwo50/Art250.git/!svn/ver/79/trunk/art250/ATIntroScreen1ViewController.h
+END
+ATLoginViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/ARTtwo50/Art250.git/!svn/ver/210/trunk/art250/ATLoginViewController.m
+END
+ATIntroScreen2ViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/ARTtwo50/Art250.git/!svn/ver/79/trunk/art250/ATIntroScreen2ViewController.h
+END
+ATArtworkButtonsViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/ARTtwo50/Art250.git/!svn/ver/133/trunk/art250/ATArtworkButtonsViewController.m
+END
+ATIntroScreen3ViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/ARTtwo50/Art250.git/!svn/ver/79/trunk/art250/ATIntroScreen3ViewController.h
+END
+ATIntroScreen4ViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/ARTtwo50/Art250.git/!svn/ver/35/trunk/art250/ATIntroScreen4ViewController.h
+END
+ATLongPressImageView.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/ARTtwo50/Art250.git/!svn/ver/187/trunk/art250/ATLongPressImageView.m
+END
+ATInfoMenuViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/ARTtwo50/Art250.git/!svn/ver/171/trunk/art250/ATInfoMenuViewController.h
+END
+ATIntroScreen1ViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/ARTtwo50/Art250.git/!svn/ver/103/trunk/art250/ATIntroScreen1ViewController.m
+END
+ATIntroScreen2ViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/ARTtwo50/Art250.git/!svn/ver/103/trunk/art250/ATIntroScreen2ViewController.m
+END
+ATIntroScreen3ViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/ARTtwo50/Art250.git/!svn/ver/210/trunk/art250/ATIntroScreen3ViewController.m
+END
+ATBlogViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/ARTtwo50/Art250.git/!svn/ver/130/trunk/art250/ATBlogViewController.h
+END
+ATIntroScreen4ViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/ARTtwo50/Art250.git/!svn/ver/35/trunk/art250/ATIntroScreen4ViewController.m
+END
+ATInfoMenuViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/ARTtwo50/Art250.git/!svn/ver/172/trunk/art250/ATInfoMenuViewController.m
+END
+ATIntroViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/ARTtwo50/Art250.git/!svn/ver/101/trunk/art250/ATIntroViewController.xib
+END
+Icon-72.png
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/ARTtwo50/Art250.git/!svn/ver/104/trunk/art250/Icon-72.png
+END
+ATLoggedInViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/ARTtwo50/Art250.git/!svn/ver/167/trunk/art250/ATLoggedInViewController.h
+END
+ATBlogViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/ARTtwo50/Art250.git/!svn/ver/140/trunk/art250/ATBlogViewController.m
+END
+ATFTDWalkthroughViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/ARTtwo50/Art250.git/!svn/ver/171/trunk/art250/ATFTDWalkthroughViewController.xib
+END
+ATCartViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/ARTtwo50/Art250.git/!svn/ver/133/trunk/art250/ATCartViewController.h
+END
+ATFTDIntroViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/ARTtwo50/Art250.git/!svn/ver/130/trunk/art250/ATFTDIntroViewController.h
+END
+ATSettingsViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/ARTtwo50/Art250.git/!svn/ver/140/trunk/art250/ATSettingsViewController.xib
+END
+ATLoggedInViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/ARTtwo50/Art250.git/!svn/ver/167/trunk/art250/ATLoggedInViewController.m
+END
+ATFTDWalkthroughViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/ARTtwo50/Art250.git/!svn/ver/130/trunk/art250/ATFTDWalkthroughViewController.h
+END
+ATCartViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/ARTtwo50/Art250.git/!svn/ver/200/trunk/art250/ATCartViewController.m
+END
+ATFTDIntroViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/ARTtwo50/Art250.git/!svn/ver/145/trunk/art250/ATFTDIntroViewController.m
+END
+ATMenuViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/ARTtwo50/Art250.git/!svn/ver/167/trunk/art250/ATMenuViewController.xib
+END
+ATFTDWalkthroughViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/ARTtwo50/Art250.git/!svn/ver/145/trunk/art250/ATFTDWalkthroughViewController.m
+END
+ATLocationFilterTblViewDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/ARTtwo50/Art250.git/!svn/ver/8/trunk/art250/ATLocationFilterTblViewDelegate.h
+END
+ATCreateAccountViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/ARTtwo50/Art250.git/!svn/ver/145/trunk/art250/ATCreateAccountViewController.xib
+END
+ATTestingControllerViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/ARTtwo50/Art250.git/!svn/ver/152/trunk/art250/ATTestingControllerViewController.xib
+END
+ATLocationFilterTblViewDelegate.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/ARTtwo50/Art250.git/!svn/ver/8/trunk/art250/ATLocationFilterTblViewDelegate.m
+END
+ATFTDWalkthrough6ViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/ARTtwo50/Art250.git/!svn/ver/136/trunk/art250/ATFTDWalkthrough6ViewController.xib
+END
+UIImagePickerController+ATExtensions.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/ARTtwo50/Art250.git/!svn/ver/112/trunk/art250/UIImagePickerController+ATExtensions.h
+END
+ATArtManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/ARTtwo50/Art250.git/!svn/ver/191/trunk/art250/ATArtManager.h
+END
+ATShipmentManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/ARTtwo50/Art250.git/!svn/ver/99/trunk/art250/ATShipmentManager.h
+END
+ATCustomProximaNovaSBoldLabel.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/ARTtwo50/Art250.git/!svn/ver/131/trunk/art250/ATCustomProximaNovaSBoldLabel.h
+END
+UIImagePickerController+ATExtensions.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/ARTtwo50/Art250.git/!svn/ver/112/trunk/art250/UIImagePickerController+ATExtensions.m
+END
+ATArtManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/ARTtwo50/Art250.git/!svn/ver/192/trunk/art250/ATArtManager.m
+END
+ATCustomProximaNovaLightTextView.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/ARTtwo50/Art250.git/!svn/ver/131/trunk/art250/ATCustomProximaNovaLightTextView.h
+END
+ATShipmentManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/ARTtwo50/Art250.git/!svn/ver/103/trunk/art250/ATShipmentManager.m
+END
+ATCustomProximaNovaSBoldLabel.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/ARTtwo50/Art250.git/!svn/ver/131/trunk/art250/ATCustomProximaNovaSBoldLabel.m
+END
+ATTextField.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/ARTtwo50/Art250.git/!svn/ver/107/trunk/art250/ATTextField.h
+END
+ATNotificationEvent.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/ARTtwo50/Art250.git/!svn/ver/148/trunk/art250/ATNotificationEvent.h
+END
+ATArtContainerViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/ARTtwo50/Art250.git/!svn/ver/188/trunk/art250/ATArtContainerViewController.h
+END
+Icon-Small-50.png
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/ARTtwo50/Art250.git/!svn/ver/104/trunk/art250/Icon-Small-50.png
+END
+ATCustomProximaNovaLightTextView.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/ARTtwo50/Art250.git/!svn/ver/131/trunk/art250/ATCustomProximaNovaLightTextView.m
+END
+ATTextField.m
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/ARTtwo50/Art250.git/!svn/ver/107/trunk/art250/ATTextField.m
+END
+ATNotificationEvent.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/ARTtwo50/Art250.git/!svn/ver/148/trunk/art250/ATNotificationEvent.m
+END
+ATArtContainerViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/ARTtwo50/Art250.git/!svn/ver/213/trunk/art250/ATArtContainerViewController.m
+END
+ATReturnPolicyViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/ARTtwo50/Art250.git/!svn/ver/80/trunk/art250/ATReturnPolicyViewController.h
+END
+ATPurchaseCompleteViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/ARTtwo50/Art250.git/!svn/ver/149/trunk/art250/ATPurchaseCompleteViewController.h
+END
+ATReturnPolicyViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/ARTtwo50/Art250.git/!svn/ver/146/trunk/art250/ATReturnPolicyViewController.m
+END
+art250-Prefix.pch
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/ARTtwo50/Art250.git/!svn/ver/199/trunk/art250/art250-Prefix.pch
+END
+ATPurchaseCompleteViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/ARTtwo50/Art250.git/!svn/ver/194/trunk/art250/ATPurchaseCompleteViewController.m
+END
+ATContactUsController.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/ARTtwo50/Art250.git/!svn/ver/80/trunk/art250/ATContactUsController.h
+END
+ATIntroScreen3ViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/ARTtwo50/Art250.git/!svn/ver/140/trunk/art250/ATIntroScreen3ViewController.xib
+END
+ATFacebookUser.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/ARTtwo50/Art250.git/!svn/ver/145/trunk/art250/ATFacebookUser.h
+END
+ATContactUsController.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/ARTtwo50/Art250.git/!svn/ver/147/trunk/art250/ATContactUsController.m
+END
+ATFilterTblViewDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/ARTtwo50/Art250.git/!svn/ver/8/trunk/art250/ATFilterTblViewDelegate.h
+END
+ATFacebookUser.m
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/ARTtwo50/Art250.git/!svn/ver/147/trunk/art250/ATFacebookUser.m
+END
+ATCollectionChooserViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/ARTtwo50/Art250.git/!svn/ver/162/trunk/art250/ATCollectionChooserViewController.h
+END
+ATMediumFilterTblViewDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/ARTtwo50/Art250.git/!svn/ver/8/trunk/art250/ATMediumFilterTblViewDelegate.h
+END
+ATTransientArtistProfile.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/ARTtwo50/Art250.git/!svn/ver/183/trunk/art250/ATTransientArtistProfile.h
+END
+ATProfileSettingsViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/ARTtwo50/Art250.git/!svn/ver/43/trunk/art250/ATProfileSettingsViewController.h
+END
+ATFilterTblViewDelegate.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/ARTtwo50/Art250.git/!svn/ver/8/trunk/art250/ATFilterTblViewDelegate.m
+END
+ATCollectionChooserViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/ARTtwo50/Art250.git/!svn/ver/210/trunk/art250/ATCollectionChooserViewController.m
+END
+ATMediumFilterTblViewDelegate.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/ARTtwo50/Art250.git/!svn/ver/8/trunk/art250/ATMediumFilterTblViewDelegate.m
+END
+ATTransientArtistProfile.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/ARTtwo50/Art250.git/!svn/ver/183/trunk/art250/ATTransientArtistProfile.m
+END
+ATProfileSettingsViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/ARTtwo50/Art250.git/!svn/ver/136/trunk/art250/ATProfileSettingsViewController.m
+END
+ATPriceMenuViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/ARTtwo50/Art250.git/!svn/ver/166/trunk/art250/ATPriceMenuViewController.h
+END
+ATPriceMenuViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/ARTtwo50/Art250.git/!svn/ver/166/trunk/art250/ATPriceMenuViewController.m
+END
+ATGlobalConstants.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/ARTtwo50/Art250.git/!svn/ver/23/trunk/art250/ATGlobalConstants.h
+END
+ATCollectionsMenuViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/ARTtwo50/Art250.git/!svn/ver/167/trunk/art250/ATCollectionsMenuViewController.xib
+END
+MBProgressHUD.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/ARTtwo50/Art250.git/!svn/ver/36/trunk/art250/MBProgressHUD.h
+END
+ATMenuViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/ARTtwo50/Art250.git/!svn/ver/186/trunk/art250/ATMenuViewController.h
+END
+MBProgressHUD.m
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/ARTtwo50/Art250.git/!svn/ver/210/trunk/art250/MBProgressHUD.m
+END
+ATMenuViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/ARTtwo50/Art250.git/!svn/ver/186/trunk/art250/ATMenuViewController.m
+END
+ATSlotView.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/ARTtwo50/Art250.git/!svn/ver/119/trunk/art250/ATSlotView.h
+END
+SearchableArtistProfile.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/ARTtwo50/Art250.git/!svn/ver/186/trunk/art250/SearchableArtistProfile.h
+END
+ATArtistsDirectoryViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/ARTtwo50/Art250.git/!svn/ver/183/trunk/art250/ATArtistsDirectoryViewController.h
+END
+ATFTDWalkthrough7ViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/ARTtwo50/Art250.git/!svn/ver/140/trunk/art250/ATFTDWalkthrough7ViewController.xib
+END
+ATHitTestView.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/ARTtwo50/Art250.git/!svn/ver/20/trunk/art250/ATHitTestView.h
+END
+ATSlotView.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/ARTtwo50/Art250.git/!svn/ver/183/trunk/art250/ATSlotView.m
+END
+SearchableArtistProfile.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/ARTtwo50/Art250.git/!svn/ver/192/trunk/art250/SearchableArtistProfile.m
+END
+ATArtistsDirectoryViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/ARTtwo50/Art250.git/!svn/ver/201/trunk/art250/ATArtistsDirectoryViewController.m
+END
+ATHitTestView.m
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/ARTtwo50/Art250.git/!svn/ver/20/trunk/art250/ATHitTestView.m
+END
+ATCustomProximaNovaLightLabel.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/ARTtwo50/Art250.git/!svn/ver/131/trunk/art250/ATCustomProximaNovaLightLabel.h
+END
+ATWalkThroughViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/ARTtwo50/Art250.git/!svn/ver/171/trunk/art250/ATWalkThroughViewController.xib
+END
+ATCustomProximaNovaLightLabel.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/ARTtwo50/Art250.git/!svn/ver/131/trunk/art250/ATCustomProximaNovaLightLabel.m
+END
+ATHintScreenView.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/ARTtwo50/Art250.git/!svn/ver/88/trunk/art250/ATHintScreenView.h
+END
+ATTwitterManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/ARTtwo50/Art250.git/!svn/ver/126/trunk/art250/ATTwitterManager.h
+END
+ATNewsFeedViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/ARTtwo50/Art250.git/!svn/ver/165/trunk/art250/ATNewsFeedViewController.h
+END
+ATShareViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/ARTtwo50/Art250.git/!svn/ver/208/trunk/art250/ATShareViewController.h
+END
+ATHintScreenView.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/ARTtwo50/Art250.git/!svn/ver/103/trunk/art250/ATHintScreenView.m
+END
+ATTwitterManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/ARTtwo50/Art250.git/!svn/ver/148/trunk/art250/ATTwitterManager.m
+END

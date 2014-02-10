@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/ARTtwo50/Art250.git/!svn/ver/121/trunk/Pods/Headers/AFNetworking
+END
+AFJSONRequestOperation.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/ARTtwo50/Art250.git/!svn/ver/121/trunk/Pods/Headers/AFNetworking/AFJSONRequestOperation.h
+END
+AFURLConnectionOperation.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/ARTtwo50/Art250.git/!svn/ver/121/trunk/Pods/Headers/AFNetworking/AFURLConnectionOperation.h
+END
+AFNetworking.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/ARTtwo50/Art250.git/!svn/ver/121/trunk/Pods/Headers/AFNetworking/AFNetworking.h
+END
+AFHTTPRequestOperation.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/ARTtwo50/Art250.git/!svn/ver/121/trunk/Pods/Headers/AFNetworking/AFHTTPRequestOperation.h
+END
+AFPropertyListRequestOperation.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/ARTtwo50/Art250.git/!svn/ver/121/trunk/Pods/Headers/AFNetworking/AFPropertyListRequestOperation.h
+END
+AFXMLRequestOperation.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/ARTtwo50/Art250.git/!svn/ver/121/trunk/Pods/Headers/AFNetworking/AFXMLRequestOperation.h
+END
+AFImageRequestOperation.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/ARTtwo50/Art250.git/!svn/ver/121/trunk/Pods/Headers/AFNetworking/AFImageRequestOperation.h
+END
+AFHTTPClient.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/ARTtwo50/Art250.git/!svn/ver/121/trunk/Pods/Headers/AFNetworking/AFHTTPClient.h
+END
+AFNetworkActivityIndicatorManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/ARTtwo50/Art250.git/!svn/ver/121/trunk/Pods/Headers/AFNetworking/AFNetworkActivityIndicatorManager.h
+END
+UIImageView+AFNetworking.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/ARTtwo50/Art250.git/!svn/ver/121/trunk/Pods/Headers/AFNetworking/UIImageView+AFNetworking.h
+END

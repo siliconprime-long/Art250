@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/ARTtwo50/Art250.git/!svn/ver/121/trunk/Pods/Headers/TransitionKit
+END
+TKState.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/ARTtwo50/Art250.git/!svn/ver/121/trunk/Pods/Headers/TransitionKit/TKState.h
+END
+TKEvent.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/ARTtwo50/Art250.git/!svn/ver/121/trunk/Pods/Headers/TransitionKit/TKEvent.h
+END
+TransitionKit.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/ARTtwo50/Art250.git/!svn/ver/121/trunk/Pods/Headers/TransitionKit/TransitionKit.h
+END
+TKStateMachine.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/ARTtwo50/Art250.git/!svn/ver/121/trunk/Pods/Headers/TransitionKit/TKStateMachine.h
+END

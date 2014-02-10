@@ -1,0 +1,9 @@
+[submodule "WinLibs"]
+	path = WinLibs
+	url = https://github.com/sfkaos/WinLibs.git
+[submodule "Submodules/ShareKit"]
+	path = Submodules/ShareKit
+	url = git://github.com/ShareKit/ShareKit.git
+[submodule "Submodules/balanced-ios"]
+	path = Submodules/balanced-ios
+	url = https://github.com/sfkaos/balanced-ios.git

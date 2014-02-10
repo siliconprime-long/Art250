@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/ARTtwo50/Art250.git/!svn/ver/213/trunk
+END
+Podfile
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/ARTtwo50/Art250.git/!svn/ver/121/trunk/Podfile
+END
+NSString+ATExtensions.m
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/ARTtwo50/Art250.git/!svn/ver/194/trunk/NSString+ATExtensions.m
+END
+UIImage+ImageEffects.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/ARTtwo50/Art250.git/!svn/ver/157/trunk/UIImage+ImageEffects.h
+END
+BPHTTPClient.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/ARTtwo50/Art250.git/!svn/ver/203/trunk/BPHTTPClient.h
+END
+UIImage+ImageEffects.m
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/ARTtwo50/Art250.git/!svn/ver/157/trunk/UIImage+ImageEffects.m
+END
+.gitmodules
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/ARTtwo50/Art250.git/!svn/ver/90/trunk/.gitmodules
+END
+BPHTTPClient.m
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/ARTtwo50/Art250.git/!svn/ver/94/trunk/BPHTTPClient.m
+END
+README.md
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/ARTtwo50/Art250.git/!svn/ver/2/trunk/README.md
+END
+GDataXMLNode.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/ARTtwo50/Art250.git/!svn/ver/99/trunk/GDataXMLNode.h
+END
+GDataXMLNode.m
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/ARTtwo50/Art250.git/!svn/ver/99/trunk/GDataXMLNode.m
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/ARTtwo50/Art250.git/!svn/ver/196/trunk/.gitignore
+END
+UIColor+WRExtensions.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/ARTtwo50/Art250.git/!svn/ver/73/trunk/UIColor+WRExtensions.h
+END
+Podfile.lock
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/ARTtwo50/Art250.git/!svn/ver/121/trunk/Podfile.lock
+END
+Flurry.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/ARTtwo50/Art250.git/!svn/ver/102/trunk/Flurry.h
+END
+BPCustomer.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/ARTtwo50/Art250.git/!svn/ver/149/trunk/BPCustomer.h
+END
+UIColor+WRExtensions.m
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/ARTtwo50/Art250.git/!svn/ver/73/trunk/UIColor+WRExtensions.m
+END
+libFlurry_4.2.2.a
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/ARTtwo50/Art250.git/!svn/ver/102/trunk/libFlurry_4.2.2.a
+END
+NSString+ATExtensions.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/ARTtwo50/Art250.git/!svn/ver/194/trunk/NSString+ATExtensions.h
+END
+BPCustomer.m
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/ARTtwo50/Art250.git/!svn/ver/149/trunk/BPCustomer.m
+END

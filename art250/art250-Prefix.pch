@@ -1,0 +1,42 @@
+//
+// Prefix header for all source files of the 'art250' target in the 'art250' project
+//
+
+#import <Availability.h>
+
+#ifndef __IPHONE_4_0
+#warning "This project uses features only available in iOS SDK 4.0 and later."
+#endif
+
+#ifdef __OBJC__
+    #import <SystemConfiguration/SystemConfiguration.h>
+    #import <UIKit/UIKit.h>
+    #import <Foundation/Foundation.h>
+    #import <FacebookSDK/FacebookSDK.h>
+    #import "GlobalConstants.h"
+//    #import "TestFlight.h"
+    #import "Flurry.h"
+    #import "UIImagePickerController+ATExtensions.h"
+    #import <Vessel/VesselAB.h>
+    #import <Vessel/Vessel.h>
+    #import "Mixpanel.h"
+    #import "ATTrackingManager.h"
+    #ifdef __APPLE__
+    #include "TargetConditionals.h"
+    //adds TARGET_OS_IPHONE and TARGET_IPHONE_SIMULATOR
+    #endif
+#endif
+
+#if __IPHONE_OS_VERSION_MIN_REQUIRED
+    #import <MobileCoreServices/MobileCoreServices.h>
+#else
+    #import <CoreServices/CoreServices.h>
+#endif
+
+// Make RestKit globally available
+#import <RestKit/RestKit.h>
+#import <CoreData/CoreData.h>
+
+//#define NSLog(__FORMAT__, ...) TFLog((@"%s [Line %d] " __FORMAT__), __PRETTY_FUNCTION__, __LINE__, ##__VA_ARGS__)
+
+#define BALANCED_IOS_VERSION @"0.2.1"
